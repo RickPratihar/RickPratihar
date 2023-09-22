@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rick Pratihar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickpratihar&label=Profile%20views&color=0e75b6&style=flat" alt="rickpratihar" /> </p>
-# 💫 About Me 👨‍💼:<br>
-- 🌱 I’m currently learning **MARN stack development**<br>
-- 👯 I’m looking to collaborate on<br>
+
+# 💫 About Me 👨‍💼:
+
+- 🔭 I’m currently working on Frontend <br><br>
+- 👯 I’m looking to collaborate on<br><br>
+- 🤝 I’m looking for help with peoples<br><br>
+- 🌱 I’m currently learning Full-Stack<br><br>
+- 🌱 I’m currently learning **MARN stack development**<br><br>
 - 👨‍💻 All of my projects are available at [https://rickpratihar-portfolio.netlify.app/](https://rickpratihar-portfolio.netlify.app/)<br>
 
 - 📝 I regularly write articles on [https://www.freshersdream.com/](https://www.freshersdream.com/)<br>
