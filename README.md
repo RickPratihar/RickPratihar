@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rick Pratihar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickpratihar&label=Profile%20views&color=0e75b6&style=flat" alt="rickpratihar" /> </p>
 # 💫 About Me 👨‍💼:
 - 🌱 I’m currently learning **MARN stack development**
 - 👯 I’m looking to collaborate on
@@ -13,7 +13,7 @@
 - 📫 How to reach me **rickpratihar1200@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rick-pratihar-881771212/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-pratihar-881771212/)
 
 
 # 👨‍💻 Tech Stack:
@@ -44,4 +44,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imasishranjan&icon=0&color=0)](https://visitcount.itsvg.in)
+
