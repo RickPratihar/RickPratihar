@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rick Pratihar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+# 💫 About Me 👨‍💼:
 - 🌱 I’m currently learning **MARN stack development**
-
+- 👯 I’m looking to collaborate on
 - 👨‍💻 All of my projects are available at [https://rickpratihar-portfolio.netlify.app/](https://rickpratihar-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.freshersdream.com/](https://www.freshersdream.com/)
