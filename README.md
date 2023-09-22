@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on Frontend <br><br>
 - 👯 I’m looking to collaborate on<br><br>
 - 🤝 I’m looking for help with peoples<br><br>
-- 🌱 I’m currently learning Full-Stack<br><br>
 - 🌱 I’m currently learning **MARN stack development**<br><br>
 - 👨‍💻 All of my projects are available at [https://rickpratihar-portfolio.netlify.app/](https://rickpratihar-portfolio.netlify.app/)<br>
 
