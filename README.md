@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rick Pratihar</h1>
+
+<div align="right">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img  src="https://readme-typing-svg.herokuapp.com?color=A3EBB1&size=30&height=80&width=700&lines=Hi+👋+I'm+Rick+Pratihar" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickpratihar&label=Profile%20views&color=0e75b6&style=flat" alt="rickpratihar" /> </p>
 
